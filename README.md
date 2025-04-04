@@ -32,6 +32,10 @@ Projeto pessoal para ultilizar e melhorar meus conhecimento com consumo de api f
   #Instalação das dependencias
   yarn ou npm install
 
+  #Configuração de variaveis ambiente
+  VITE_API_URL=
+  #Se você estiver rodando localmente a api, lembre-se de colocar a URL da api.
+
   yarn dev
 
   ##Sinta-se Livre para fazer qualquer alteração! :)
